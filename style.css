@@ -1,0 +1,39 @@
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: chocolate;
+    margin: 50px;
+}
+
+h2 {
+    color: hotpink;
+}
+
+
+#a1 {
+color: green;
+font-style: serif;
+}
+
+#a2 {
+color: green;
+font-style: sans-serif;
+}
+
+#a3 {
+color: green;
+font-style: fantasy;
+}
+
+#a4 {
+color: green;
+font-style: cursive;
+}
+
+#a5 {
+color: green;
+font-style: monospace;
+}
