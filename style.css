@@ -4,36 +4,45 @@ body {
 }
 
 h1 {
+    text-align: center;
+    text-decoration: underline;
     color: chocolate;
-    margin: 50px;
+    font-family: sans-serif;
 }
 
 h2 {
-    color: hotpink;
+    text-align: center;
+    font-family: sans-serif;
+    color: hotpink
 }
 
 
 #a1 {
-color: green;
-font-style: serif;
+    text-align: center;
+    color: green;
+    font-family: serif;
 }
 
 #a2 {
-color: green;
-font-style: sans-serif;
+    text-align: center;
+    color: green;
+    font-family: sans-serif;
 }
 
 #a3 {
-color: green;
-font-style: fantasy;
+    text-align: center;
+    color: green;
+    font-family: fantasy;
 }
 
 #a4 {
-color: green;
-font-style: cursive;
+    text-align: center;
+    color: green;
+    font-family: cursive;
 }
 
 #a5 {
-color: green;
-font-style: monospace;
+    text-align: center;
+    color: green;
+    font-family: monospace;
 }
